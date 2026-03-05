@@ -1,0 +1,12 @@
+{
+  "name": "qa-cypress-project",
+  "version": "1.0.0",
+  "description": "Projeto de QA - cypress (beginner)",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.0.0"
+  }
+}
